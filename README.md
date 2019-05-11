@@ -1,7 +1,7 @@
 # ConsoleChessCpp
 Chess Console Game in C++ 
 
-Please use "dejavu sans mono" font for correct work(you can download it from you can download it from https://www.fontsquirrel.com/fonts/dejavu-sans-mono)
+Please use "dejavu sans mono" font for correct work(you can download it from https://www.fontsquirrel.com/fonts/dejavu-sans-mono)
  
  <--11.07.2018--> (v0.31) 
  
